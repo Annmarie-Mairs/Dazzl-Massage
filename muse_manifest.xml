@@ -1,0 +1,307 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dazzle.com" resolutions="1x" timestamp="1570646536861">
+  <folder name="css">
+    <file name="site_global.css" crc="4290482376"/>
+    <file name="master_header.css" crc="4124424524" ref="home-copy:index"/>
+    <file name="nomq_preview_master_header.css" crc="186697462" ref="home-copy:index"/>
+    <file name="home-copy.css" crc="4277295876" ref="home-copy"/>
+    <file name="nomq_home-copy.css" crc="91026124" ref="home-copy"/>
+    <file name="index.css" crc="3884323165" ref="index"/>
+    <file name="nomq_index.css" crc="4284096471" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy"/>
+    <file name="museutils.js" crc="340535759" ref="index:home-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home-copy"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:home-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:home-copy"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:home-copy"/>
+    <file name="webpro.js" crc="4059564322" ref="index:home-copy"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:home-copy"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:home-copy"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:home-copy"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:home-copy"/>
+    <file name="require.js" crc="7928878" ref="index:home-copy"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="header-background-u15773-fr.png" crc="396434197" ref="index:home-copy"/>
+    <file name="dazzle-logo.png" crc="342232628" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-open-normal.png" crc="4165145842" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-close-normal.png" crc="386257417" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dazzle-logo-u465-fr.png" crc="180820865" ref="index:home-copy"/>
+    <file name="20190926_174734.jpg" crc="290714027" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="dazzle-logo-u2388.png" crc="307762699" ref="index"/>
+    <file name="paralax-background.jpg" crc="4093660699" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="paralax-background-02.jpg" crc="4083718785" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="uparrow.png" crc="3907046260" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paralax-background-03.jpg" crc="257916059" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="dazzle-logo-u23882.png" crc="4054406441" ref="index"/>
+    <file name="dazzle-logo-u23883.png" crc="287888584" ref="index"/>
+    <file name="paralax-background-04-u2342-fr.jpg" crc="4270307413" ref="index"/>
+    <file name="dazzle-logo-u23884.png" crc="3973178362" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:home-copy"/>
+    <file name="dazzle-logo-u3184.png" crc="4294010093" ref="home-copy"/>
+    <file name="dazzle-logo-u3100-fr.png" crc="526068376" ref="home-copy"/>
+    <file name="dazzle-logo-u31842.png" crc="309235580" ref="home-copy"/>
+    <file name="dazzle-logo-u3100-fr2.png" crc="3923129509" ref="home-copy"/>
+    <file name="dazzle-logo-u31843.png" crc="2450101" ref="home-copy"/>
+    <file name="dazzle-logo-u3100-fr3.png" crc="4061643547" ref="home-copy"/>
+    <file name="dazzle-logo-u31844.png" crc="148150305" ref="home-copy"/>
+    <file name="dazzle-logo-u3100-fr4.png" crc="295924040" ref="home-copy"/>
+    <file name="dazzle-logo-u31845.png" crc="4123247812" ref="home-copy"/>
+    <file name="20190725_101521-collage-crop-u22550.jpg" crc="4128558614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190727_093631-crop-u22775.jpg" crc="373338189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190815_082047-collage-crop-u22834.jpg" crc="35650276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_143538-collage-crop-u22893.jpg" crc="84430730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_151513-collage-crop-u22952.jpg" crc="3864699415" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_152534-collage-crop-u23011.jpg" crc="319334086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_154819-collage-crop-u23070.jpg" crc="363139812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_155411-collage-crop-u23129.jpg" crc="3988384074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20191002_184032-crop-u23188.jpg" crc="4122946037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20191002_221210-crop-u23247.jpg" crc="4262019771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1569770919321_resized_20190624_090239-collage(1)-crop-u23306.jpg" crc="3782282698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190720_021813_088-crop-u23365.jpg" crc="3925924425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190725_081813_767-crop-u23424.jpg" crc="433891218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190811_161654_177-crop-u23483.jpg" crc="340851325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190814_132728_778-crop-u23542.jpg" crc="74496854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190927_004028_458-crop-u23601.jpg" crc="476120253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="dazzle-logo-u24807.png" crc="307762699" ref="index"/>
+    <file name="dazzle-logo-u248072.png" crc="4054406441" ref="index"/>
+    <file name="20190725_101521-collage-crop-u225502.jpg" crc="4128558614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190727_093631-crop-u227752.jpg" crc="373338189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190815_082047-collage-crop-u228342.jpg" crc="35650276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_143538-collage-crop-u228932.jpg" crc="84430730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_151513-collage-crop-u229522.jpg" crc="3864699415" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_152534-collage-crop-u230112.jpg" crc="319334086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_154819-collage-crop-u230702.jpg" crc="363139812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_155411-collage-crop-u231292.jpg" crc="3988384074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20191002_184032-crop-u231882.jpg" crc="4122946037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20191002_221210-crop-u232472.jpg" crc="4262019771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1569770919321_resized_20190624_090239-collage(1)-crop-u233062.jpg" crc="3782282698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190720_021813_088-crop-u233652.jpg" crc="3925924425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190725_081813_767-crop-u234242.jpg" crc="433891218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190811_161654_177-crop-u234832.jpg" crc="340851325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190814_132728_778-crop-u235422.jpg" crc="74496854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190927_004028_458-crop-u236012.jpg" crc="476120253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dazzle-logo-u248073.png" crc="287888584" ref="index"/>
+    <file name="20190725_101521-collage.jpg" crc="3775617320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190727_093631-crop-u227753.jpg" crc="451755159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190815_082047-collage.jpg" crc="3986096113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_143538-collage.jpg" crc="319811340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_151513-collage.jpg" crc="3944507181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_152534-collage.jpg" crc="3892152614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_154819-collage.jpg" crc="285693934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_155411-collage.jpg" crc="251712370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20191002_184032-crop-u231883.jpg" crc="4107582338" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20191002_221210-crop-u232473.jpg" crc="329675438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1569770919321_resized_20190624_090239-collage(1).jpg" crc="170812860" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190720_021813_088.jpg" crc="102868047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190725_081813_767.jpg" crc="3881677401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190811_161654_177.jpg" crc="3759118124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190814_132728_778.jpg" crc="3797532327" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190927_004028_458.jpg" crc="3798133992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dazzle-logo-u248074.png" crc="3973178362" ref="index"/>
+    <file name="20190725_101521-collage-crop-u225503.jpg" crc="4128558614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190727_093631-crop-u227754.jpg" crc="373338189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190815_082047-collage-crop-u228343.jpg" crc="35650276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_143538-collage-crop-u228933.jpg" crc="84430730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_151513-collage-crop-u229523.jpg" crc="3864699415" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_152534-collage-crop-u230113.jpg" crc="319334086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_154819-collage-crop-u230703.jpg" crc="363139812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190826_155411-collage-crop-u231293.jpg" crc="3988384074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20191002_184032-crop-u231884.jpg" crc="4122946037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20191002_221210-crop-u232474.jpg" crc="4262019771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1569770919321_resized_20190624_090239-collage(1)-crop-u233063.jpg" crc="3782282698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190720_021813_088-crop-u233653.jpg" crc="3925924425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190725_081813_767-crop-u234243.jpg" crc="433891218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190811_161654_177-crop-u234833.jpg" crc="340851325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190814_132728_778-crop-u235423.jpg" crc="74496854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190927_004028_458-crop-u236013.jpg" crc="476120253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3758363635" seo="true" mt="1570646269944" redirect="true"/>
+  <file name="home-copy.html" crc="4138309022" seo="true" mt="1570640497259" redirect="true"/>
+</manifest>
