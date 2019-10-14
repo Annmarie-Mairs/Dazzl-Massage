@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dazzle.com" resolutions="1x" timestamp="1571090104081">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dazzle.com" resolutions="1x" timestamp="1571091398721">
   <folder name="css">
     <file name="site_global.css" crc="4290482376"/>
-    <file name="master_header.css" crc="4021350793" ref="home-copy:index"/>
-    <file name="nomq_preview_master_header.css" crc="478017856" ref="home-copy:index"/>
+    <file name="master_header.css" crc="4282212848" ref="home-copy:index"/>
+    <file name="nomq_preview_master_header.css" crc="186697462" ref="home-copy:index"/>
     <file name="home-copy.css" crc="481990990" ref="home-copy"/>
     <file name="nomq_home-copy.css" crc="91026124" ref="home-copy"/>
-    <file name="index.css" crc="45587602" ref="index"/>
+    <file name="index.css" crc="4067423921" ref="index"/>
     <file name="nomq_index.css" crc="414665004" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -302,6 +302,6 @@
     <file name="dazzle-logo-u3100-fr4.png" crc="295924040" ref="home-copy"/>
     <file name="dazzle-logo-u31845.png" crc="4123247812" ref="home-copy"/>
   </folder>
-  <file name="index.html" crc="283543828" seo="true" mt="1571089624508" redirect="true"/>
+  <file name="index.html" crc="365975510" seo="true" mt="1571091379497" redirect="true"/>
   <file name="home-copy.html" crc="3853953711" seo="true" mt="1570640497259" redirect="true"/>
 </manifest>
