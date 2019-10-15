@@ -17,8 +17,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Dazzle Home PageHome</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4290482376"/>
-  <link rel="stylesheet" type="text/css" href="css/master_header.css?crc=4282212848"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4067423921" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_header.css?crc=74726482"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4080548602" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_header.css?crc=186697462"/>
@@ -318,7 +318,7 @@ Get Directions
       <div class="Dazzl-P" id="u3416-6">
        <p>This is the most well-known and is a widely practiced type of massage and for good reason. This type of massage focuses on muscle relaxation, targeting superficial muscles (rather than the connective tissues targeted in deep-tissue massage) and increasing blood circulation.</p>
        <p>&nbsp;</p>
-       <p>Sweedish Massage Maximises relaxation, reduces stress, increased blood flow and circulation, improved immune system, increase flexibility, decreased fatigue&nbsp; Swedish massage is designed specifically to enhance circulation and blood flow to the large muscle groups and promotes your well-being</p>
+       <p>Swedish Massage Maximises relaxation, reduces stress, increased blood flow and circulation, improved immune system, increase flexibility, decreased fatigue&nbsp; Swedish massage is designed specifically to enhance circulation and blood flow to the large muscle groups and promotes your well-being</p>
       </div>
      </div>
      <div class="shadow rgba-background rounded-corners clearfix mse_pre_init shared_content" id="u3417-8" data-content-guid="u3417-8_content"><!-- content -->
@@ -1098,20 +1098,6 @@ Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1500', '#bp_800', '#bp_5
 Muse.Utils.initWidget('#accordionu14916', ['#bp_infinity', '#bp_1500', '#bp_800', '#bp_500'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu14916 */
 Muse.Utils.initWidget('#slideshowu22545', ['#bp_infinity', '#bp_1500', '#bp_800', '#bp_500'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu22545 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_1500').one('muse_this_bp_activate', function(){
-$('#u427-bw').registerPositionScrollEffect([{"in":[-Infinity,497],"speed":[null,1]},{"in":[497,Infinity],"speed":[null,1.5]}], $(this)); /* scroll effect */
-$('#u554-bw').registerPositionScrollEffect([{"in":[-Infinity,1856.8],"speed":[null,0.5]},{"in":[1856.8,Infinity],"speed":[null,1.2]}], $(this)); /* scroll effect */
-$('#u2986-bw').registerPositionScrollEffect([{"in":[-Infinity,2813.8],"speed":[null,0.5]},{"in":[2813.8,Infinity],"speed":[null,1]}], $(this)); /* scroll effect */
-$('#u24045-bw').registerPositionScrollEffect([{"in":[-Infinity,4423.6],"speed":[null,1]},{"in":[4423.6,Infinity],"speed":[null,1]}], $(this)); /* scroll effect */
-$('#slideshowu22545').registerPositionScrollEffect([{"in":[-Infinity,4611.25],"speed":[0,1]},{"in":[4611.25,Infinity],"speed":[0,1]}], $(this)); /* scroll effect */
-$('#u23660-4').registerPositionScrollEffect([{"in":[-Infinity,4539.95],"speed":[0,1]},{"in":[4539.95,Infinity],"speed":[0,1]}], $(this)); /* scroll effect */
-$('#u6789').registerPositionScrollEffect([{"in":[-Infinity,500.1],"speed":[0,1]},{"in":[500.1,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_800').one('muse_this_bp_activate', function(){
-$('#slideshowu22545').registerPositionScrollEffect([{"in":[-Infinity,4883.4],"speed":[0,1]},{"in":[4883.4,Infinity],"speed":[0,1]}], $(this)); /* scroll effect */
-$('#u23660-4').registerPositionScrollEffect([{"in":[-Infinity,4796.15],"speed":[0,1]},{"in":[4796.15,Infinity],"speed":[0,1]}], $(this)); /* scroll effect */
-$('#u6789').registerPositionScrollEffect([{"in":[-Infinity,1469.6],"speed":[0,1]},{"in":[1469.6,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u616-37').registerOpacityScrollEffect([{"in":[-Infinity,646.65],"opacity":100,"fade":50},{"in":[646.65,646.65],"opacity":100},{"in":[646.65,Infinity],"opacity":30,"fade":185.35}], $(this)); /* scroll effect */
 $('#u427-bw').registerPositionScrollEffect([{"in":[-Infinity,17],"speed":[null,0]},{"in":[17,Infinity],"speed":[null,1.2]}], $(this)); /* scroll effect */
@@ -1142,6 +1128,20 @@ $('#u3425-4').registerPositionScrollEffect([{"in":[-Infinity,2372.57],"speed":[0
 $('#u3426-4').registerPositionScrollEffect([{"in":[-Infinity,2372.57],"speed":[0,1]},{"in":[2372.57,Infinity],"speed":[0,1.5]}], $(this)); /* scroll effect */
 $('#u6789').registerPositionScrollEffect([{"in":[-Infinity,463.05],"speed":[0,1]},{"in":[463.05,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 $('#u689').registerPositionScrollEffect([{"in":[-Infinity,1411.1],"speed":[0,1]},{"in":[1411.1,Infinity],"speed":[0,1]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_800').one('muse_this_bp_activate', function(){
+$('#slideshowu22545').registerPositionScrollEffect([{"in":[-Infinity,4883.4],"speed":[0,1]},{"in":[4883.4,Infinity],"speed":[0,1]}], $(this)); /* scroll effect */
+$('#u23660-4').registerPositionScrollEffect([{"in":[-Infinity,4796.15],"speed":[0,1]},{"in":[4796.15,Infinity],"speed":[0,1]}], $(this)); /* scroll effect */
+$('#u6789').registerPositionScrollEffect([{"in":[-Infinity,1469.6],"speed":[0,1]},{"in":[1469.6,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1500').one('muse_this_bp_activate', function(){
+$('#u427-bw').registerPositionScrollEffect([{"in":[-Infinity,497],"speed":[null,1]},{"in":[497,Infinity],"speed":[null,1.5]}], $(this)); /* scroll effect */
+$('#u554-bw').registerPositionScrollEffect([{"in":[-Infinity,1856.8],"speed":[null,0.5]},{"in":[1856.8,Infinity],"speed":[null,1.2]}], $(this)); /* scroll effect */
+$('#u2986-bw').registerPositionScrollEffect([{"in":[-Infinity,2813.8],"speed":[null,0.5]},{"in":[2813.8,Infinity],"speed":[null,1]}], $(this)); /* scroll effect */
+$('#u24045-bw').registerPositionScrollEffect([{"in":[-Infinity,4423.6],"speed":[null,1]},{"in":[4423.6,Infinity],"speed":[null,1]}], $(this)); /* scroll effect */
+$('#slideshowu22545').registerPositionScrollEffect([{"in":[-Infinity,4611.25],"speed":[0,1]},{"in":[4611.25,Infinity],"speed":[0,1]}], $(this)); /* scroll effect */
+$('#u23660-4').registerPositionScrollEffect([{"in":[-Infinity,4539.95],"speed":[0,1]},{"in":[4539.95,Infinity],"speed":[0,1]}], $(this)); /* scroll effect */
+$('#u6789').registerPositionScrollEffect([{"in":[-Infinity,500.1],"speed":[0,1]},{"in":[500.1,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_500').one('muse_this_bp_activate', function(){
 $('#slideshowu22545').registerPositionScrollEffect([{"in":[-Infinity,6242.65],"speed":[0,1]},{"in":[6242.65,Infinity],"speed":[0,1]}], $(this)); /* scroll effect */
