@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dazzle.com" resolutions="1x" timestamp="1571152651910">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dazzle.com" resolutions="1x" timestamp="1571255477324">
   <folder name="css">
     <file name="site_global.css" crc="4290482376"/>
-    <file name="master_header.css" crc="74726482" ref="index"/>
+    <file name="master_header.css" crc="35006861" ref="index"/>
     <file name="nomq_preview_master_header.css" crc="186697462" ref="index"/>
-    <file name="index.css" crc="4080548602" ref="index"/>
+    <file name="index.css" crc="408254581" ref="index"/>
     <file name="nomq_index.css" crc="414665004" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -271,5 +271,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3992530227" seo="true" mt="1571152613935" redirect="true"/>
+  <file name="index.html" crc="158641373" seo="true" mt="1571255354704" redirect="true"/>
 </manifest>
